@@ -1,3 +1,7 @@
-awp
+awp 
 usp
 glock
+
+global
+2023
+
