@@ -4,6 +4,7 @@ pudge
 
 
 
+
 axe
 cm
 
@@ -13,4 +14,8 @@ witch
 
 furion
 legion
+
+
+mortra
+templarka
 

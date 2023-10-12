@@ -1,5 +1,6 @@
 awp 
 usp
+
 glock
 
 
@@ -14,4 +15,10 @@ global
 
 tt
 ct
+
+
+glock 
+
+apsu b
+apsu a
 
