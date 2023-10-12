@@ -1,3 +1,6 @@
 awp
 usp
 glock
+
+tt
+ct
