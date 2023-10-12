@@ -1,3 +1,6 @@
 tinker
 io
 pudge
+
+mortra
+templarka
