@@ -1,6 +1,12 @@
-awp
+awp 
 usp
 glock
 
+
 ak 47
 m4
+
+global
+2023
+
+
